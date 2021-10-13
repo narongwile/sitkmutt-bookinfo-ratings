@@ -6,10 +6,6 @@ Rating service has been developed on NodeJS
 
 MIT License
 
-## Website
-
-[Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th)
-
 ## How to run with Docker
 
 ```bash
@@ -26,3 +22,7 @@ docker run -d --name ratings -p 8080:8080 --link mongodb:mongodb \
 ```
 
 * Test with path `/ratings/1` and `/health`
+
+## Website
+
+[Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th)
